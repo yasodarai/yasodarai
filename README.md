@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasodarai
 - 👀 I’m interested in web development and data analysis.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript,SQL,Tableau and Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
